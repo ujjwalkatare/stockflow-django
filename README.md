@@ -17,17 +17,16 @@
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home](home.png)
+![Home](screenshots/home.png)
 
 ### 📊 Stock Marketplace (User Dashboard)
-![Marketplace](marketplace.png)
+![Marketplace](screenshots/marketplace.png)
 
 ### 🛒 Available Shares & Buy/Sell
-![Available Shares](admin_dashboard.png)
+![Available Shares](screenshots/admin_dashboard.png)
 
 ### 💼 Portfolio
-![Portfolio](portfolio.png)
-
+![Portfolio](screenshots/portfolio.png)
 ---
 
 ## 🚀 Features
